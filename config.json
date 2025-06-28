@@ -1,13 +1,13 @@
 {
   "input": "./gallery",
   "output": "./build_output",
-  "title": "Photo Gallery",
+  "title": "SS Gallery",
   "sort-albums-by": "title",
   "sort-media-by": "filename",
   "download-photos": "copy",
   "cleanup": true,
-  "theme": "cards",
+  "theme": "mosaic",
   "css": "./custom.css",
-  "footer": "Copyright Text",
+  "footer": "For documentation only.",
   "usage-stats": false
 }
